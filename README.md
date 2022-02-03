@@ -2,6 +2,7 @@
 Analysis on Satellite and ground-based measurements
 
 
+#To run pmplot.py
 Open a virtual environment and run the following terminal command `pip install -r requirements.txt`<br />
 
 
